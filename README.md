@@ -1,2 +1,2 @@
 # Assignments-
-Python practice questions. 
+Python practice questions for University. 
